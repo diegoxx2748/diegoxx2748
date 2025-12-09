@@ -21,13 +21,9 @@
   <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=diegoxx2748.diegoxx2748&"  />
-</div>
 
-###
+
 
 <h1 align="center">hey, whats up ?</h1>
 
